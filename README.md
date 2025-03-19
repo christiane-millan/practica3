@@ -2,6 +2,6 @@
 
 Mi primer repositorio GitHub
 
-Mi primiera contribución desde VSCode
+Mi primera contribución desde VSCode
 
 Una contribución al repositorio
